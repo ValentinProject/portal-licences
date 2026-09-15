@@ -1,5 +1,7 @@
 {
-  "blocked": [],
-  "published": "2026-09-14",
-  "signature": "+3Ymv2CdLE7od5VN3hcqIPTgBzSVW0eVg4TLqUYy6WLlrY+FLRwOF9zcrFaY7KC7iqhdhZy0I/foAYXGtcS4DQ=="
+  "blocked": [
+    "45843225c73bbb9973b66b032d8936741673affffd23c5a0dea5f5c232979a8f"
+  ],
+  "published": "2026-09-15",
+  "signature": "kTH1UuHhlM4ILIc+xcEn83YJaszZ3VQeVav5z3jOsH01oHFumFWRrDk6du89OnpjHoxgj64JNxjqFzw+S9L+BQ=="
 }
